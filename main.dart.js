@@ -65235,9 +65235,9 @@ return A.ahn(A.b([new A.tJ(this.c,this.d,B.b5,B.eI,B.xd,new A.bB(B.cp,2,B.G,-1),
 A.nO.prototype={
 T(a){return new A.fq(B.Ex,new A.I9(this.d,this.e,B.cp,B.b5,B.i,B.k,A.e7(this.c,B.Q9,null),B.cl,null),null)}}
 A.F5.prototype={
-T(a){return A.amu("assets/nonoutline/PLAYGROUND-3.svg",40)}}
+T(a){return A.amu("assets/logoimp.svg",40)}}
 A.vn.prototype={
-T(a){return A.amu("assets/nonoutline/PLAYGROUND-3.svg",20)}}
+T(a){return A.amu("assets/logoimp.svg",20)}}
 A.DI.prototype={
 al(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=d.c
 if(c<=0)return
